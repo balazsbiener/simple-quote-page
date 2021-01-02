@@ -1,0 +1,27 @@
+body {
+    background: url('assets/download.jpeg')
+    no-repeat center fixed;
+    background-size: cover;
+} 
+h1 {color: azure;
+    position: relative;
+    text-shadow: 2px 2px 9px black;
+    top: 170px;
+    font-family: "Nunito", "helvetica", "arial";
+    font-size: 50px;
+    font-weight: bold;
+}
+h2 {color: azure;
+    position: relative;
+    top: 200px;
+    font-family: "Nunito", "Lucida Console";
+    font-size: 25px;
+}
+mark {
+  background-color: yellow;
+  color: black;
+}
+transbox h1 {
+  width: 300px;
+  height: 100px;
+}
